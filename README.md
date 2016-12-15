@@ -9,7 +9,7 @@ http://data.datacove.eu:8080/geoserver/slovak-eye/wms?request=GetCapabilities
 ### Download service endpoint (WCS)
 http://data.datacove.eu:8080/geoserver/slovak-eye/wcs?request=GetCapabilities
 
-### Dataset download 
+### Dataset download WCS TIFF
 
 Sentinel_SR: http://data.datacove.eu:8080/geoserver/slovak-eye/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=Sentinel_SR
 
