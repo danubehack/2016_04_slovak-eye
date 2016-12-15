@@ -11,9 +11,9 @@ http://data.datacove.eu:8080/geoserver/slovak-eye/wcs?request=GetCapabilities
 
 ### Dataset download WCS TIFF
 
-Sentinel_SR: http://data.datacove.eu:8080/geoserver/slovak-eye/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=Sentinel_SR
+Sentinel_SR: http://data.datacove.eu:8080/geoserver/slovak-eye/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=Sentinel_SR&format=geotiff
 
-Sentinel_SR_Resample: http://data.datacove.eu:8080/geoserver/slovak-eye/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=Sentinel_SR
+Sentinel_SR_Resample: http://data.datacove.eu:8080/geoserver/slovak-eye/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=Sentinel_SR&format=geotiff
 
 ## INSPIRE metadata
 View Service: https://bolegweb.geof.unizg.hr/pycsw/datacove?service=CSW&version=2.0.2&request=GetRecordById&id=urn:uuid:82460794-d5a6-4c5b-8a40-b61c362dfc01&outputSchema=http://www.isotc211.org/2005/gmd
